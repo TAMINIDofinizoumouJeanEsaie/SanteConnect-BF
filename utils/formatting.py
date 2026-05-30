@@ -1,5 +1,5 @@
 """
-formatage.py
+formatting.py
 This file handles everything related to displaying things in the terminal.
 Colors, titles, tables, menus, error messages, etc.
 """
